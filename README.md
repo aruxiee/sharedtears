@@ -3,6 +3,8 @@
 
 Allows an operator to snapshot a running process by leveraging the `ptrace` subsystem and forces it to execute arbitrary syscalls without termination or crashing.
 
+⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
+
 ---
 
 ## 🛠️ Injection Flow
