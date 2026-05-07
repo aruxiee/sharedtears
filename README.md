@@ -90,3 +90,7 @@ Even before the code executes, acquisition is visible in the victim's resource t
 | **T1027** | **Obfuscation** | Executing actions in-memory within a process to avoid writing new binaries to disk. |
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
