@@ -92,5 +92,5 @@ Even before the code executes, acquisition is visible in the victim's resource t
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
